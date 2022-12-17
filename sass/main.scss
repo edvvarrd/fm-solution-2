@@ -119,6 +119,12 @@ body {
 	}
 }
 @media (min-width: 756px) {
+	.top {
+		&__logo {
+			width: 60%;
+			padding: 0;
+		}
+	}
 	.middle {
 		&__content {
 			&-heading {
