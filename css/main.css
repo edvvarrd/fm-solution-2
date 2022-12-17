@@ -23,7 +23,7 @@ body {
 .wrapper {
   width: 100%;
   max-width: 1400px;
-  margin: auto;
+  margin: 0 auto;
   padding: 0 3em;
 }
 
@@ -33,10 +33,6 @@ body {
 }
 .top__logo {
   width: 50%;
-  fill: #fff;
-}
-.top__logo:hover {
-  fill: hsl(300deg, 69%, 71%);
 }
 
 .middle {
@@ -187,7 +183,7 @@ body {
     padding: 2em 0;
   }
   .middle__content-heading {
-    font-size: 4rem;
+    font-size: 4.2rem;
     line-height: 6rem;
   }
   .middle__content-description {
