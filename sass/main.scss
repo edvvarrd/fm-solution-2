@@ -140,7 +140,7 @@ body {
 	body {
 		background-image: url('../img/bg-desktop.svg');
 		background-attachment: fixed;
-		background-size: cover;
+		background-size: contain;
 	}
 	.top {
 		&__logo {
