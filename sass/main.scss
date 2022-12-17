@@ -13,7 +13,6 @@ body {
 	min-height: 100vh;
 	background-image: url('../img/bg-mobile.svg');
 	background-color: $primary;
-	background-size: contain;
 	background-repeat: no-repeat;
 	font-size: 1.5rem;
 	font-family: 'Open Sans', sans-serif;
@@ -138,6 +137,7 @@ body {
 	body {
 		background-image: url('../img/bg-desktop.svg');
 		background-attachment: fixed;
+		background-size: cover;
 	}
 	.top {
 		&__logo {
