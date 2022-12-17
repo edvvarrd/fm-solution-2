@@ -182,6 +182,10 @@ body {
   .middle {
     padding: 2em 0;
   }
+  .middle__content {
+    align-self: flex-start;
+    padding: 3em 0;
+  }
   .middle__content-heading {
     font-size: 4.2rem;
     line-height: 6rem;
