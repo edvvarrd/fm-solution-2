@@ -15,18 +15,6 @@ Your users should be able to:
 
 ![Design preview](./design/desktop-preview.jpg)
 
-## My personal goals
-
-This is my second challenge. I wanted to focus more on responsiveness on all available devices.
-
-## Tools I used
-
-To finish this challenge I used  HTML and SASS with BEM to make as clean code as I could. To get responsive design, I used Flexbox.
-
-## Problems I had
-
-There was no bigger problems with this challenge, except of being not sure of my own code - but I believe it will come with time.
-
 ## Links
 
 * [Solution](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-YOjszjWm9W)
